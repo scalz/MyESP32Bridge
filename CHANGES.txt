@@ -1,0 +1,9 @@
+May. 29 2017 (Scalz)
+  MyESP32Bridge Revision 1.0
+	
+    Features:
+		- 
+   
+    Known issues: 
+
+
