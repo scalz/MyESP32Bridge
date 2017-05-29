@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/scalz/MyESP32Bridge/master/Img/MyESP32Bridge_bottom.png" alt="MyESP32Bridge bottom 3d view"> 
 
-This is work in progress project.
+This is a work in progress project.
 
 
 ### The board
@@ -86,15 +86,15 @@ More detailed specifications:
 - 4x holes for holding the aliexpress 12x RGB leds ring
 
 
-###Known issues
+### Known issues
 ------ 
 
-###TODO
+### TODO
 ------
 - Upload files, be patient please :)
 - etc.
 
-###Donations
+### Donations
 ------
 
 I'm trying to make opensource projects. I do this for free and sharing spirit. I don't do ads etc..
@@ -115,7 +115,7 @@ Special thanks to
 - Adafruit, Sparkfun, TI, Atmel, ESP32 forum etc.. for all educational infos they share
 
 
-###Links, reference and license 
+### Links, reference and license 
 ------
 - 
 
