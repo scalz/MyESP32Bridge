@@ -51,7 +51,7 @@ For those who don’t know yet about ESP32, I’m using ESP32-WROOM which is
 - Cryptographic hardware acceleration: AES, SHA-2, RSA, ECC, random number generator (RNG)
 
 
-So what is my board capable of ?
+#### So what is my board capable of ?
 - **Serial Gateway**, 
 - **Wifi** Gateway, 
 - **Bluetooth/BLE** Gateway, 
@@ -62,7 +62,7 @@ So what is my board capable of ?
 - can use extension board with **MYSX connector**, so a **development board** too
 - and so one, i’m sure i’m missing usecases :)
 
-More detailed specifications:
+#### More detailed specifications:
 - **Wifi or Bluetooth/BLE** thanks to ESP32 mcu
 - **NRF24 footprint**
 - **RFM69/95** footprint
